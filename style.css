@@ -1,0 +1,26 @@
+body {
+   margin: 0;
+   padding: 0;
+ }
+  #minecraft {
+   background-image: -webkit-radial-gradient(#d60f2b, #42030f);
+   background-image: radial-gradient(#d60f2b, #42030f);
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   overflow: hidden;
+ }
+#social{
+  position:fixed;
+  bottom:20px;
+  width:100%;
+  text-align:center;
+  color:white;
+  font-family:monospace;
+  font-size:15px;
+}
+a{
+   text-decoration: none;
+   font-weight:bold;
+   color:white;
+}
